@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750">
+  <rect width="600" height="750" fill="#F4EFE3"/>
+  <rect x="24" y="24" width="552" height="702" fill="none" stroke="#194208" stroke-opacity="0.25" stroke-width="1.5"/>
+  <g transform="translate(300,335)">
+    <path d="M-70 70 L0 -70 L70 70" fill="none" stroke="#194208" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="0" cy="20" r="6" fill="#D99A56"/>
+  </g>
+  <text x="300" y="470" text-anchor="middle" font-family="Georgia, serif" font-size="26" fill="#583515" letter-spacing="2">POUR YAZDI</text>
+  <text x="300" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#33312B" letter-spacing="3">PRODUCT IMAGE ON REQUEST</text>
+</svg>
